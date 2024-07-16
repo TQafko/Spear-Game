@@ -2,12 +2,15 @@
 
 Authors: Tedi Qafko, Sam Tommy
 
-Game Description
+## Game Description
 -----------------
 
 A single-player game with a top-view perspective where the user plays the character of a caveman who is attempting to shoot down randomly moving spaceships called bosses. The goal of the game is to score the highest level possible by destroying all of the spaceships using the caveman attack called “bullet” while maneuvering around the spaceships’ moving attacks. You will always begin with 100 hit points and when those hit points go to 0, you are defeated and restart from level one.
 
-Main Menu
+## Youtube Demonstration Video:
+[![Watch the video](https://i.ytimg.com/vi/gkSAZDDOfvI/hqdefault.jpg)](https://youtu.be/gkSAZDDOfvI)
+
+## Main Menu
 ---------
 
 Start Game -> starts game.
@@ -18,7 +21,7 @@ Options -> Displays Game Options screen.
 
 Quit -> Quits game.
 
-Game Options: (All options are set to default when program is started
+## Game Options: (All options are set to default when program is started
 ---------------------------------------------------------------------
 
 "Bullet single-kill" or "Bullet multi-kill" -> Changes the number of bosses each bullet fired can kill (Disabled or lowered opacity button is the seclected option)
@@ -31,7 +34,7 @@ Boss Speed -> Changes the speed the space ships are moving.
 
 Boss Size -> Changes the hit box of the space ships.
 
-Intalling Game Instructions
+## Intalling Game Instructions
 ----------------------------------------
 
 To run the game:
